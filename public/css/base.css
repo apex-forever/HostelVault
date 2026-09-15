@@ -1,0 +1,10 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  font-family:'Manrope', 'Segoe UI', sans-serif; background:var(--bg);
+  color:var(--text); overflow-x:hidden;
+}
+h1,h2,h3,h4,h5,h6,.font-display { font-family:'Plus Jakarta Sans', 'Segoe UI', sans-serif; }
+::-webkit-scrollbar { width:6px; }
+::-webkit-scrollbar-track { background:transparent; }
+::-webkit-scrollbar-thumb { background:var(--primary-pale); border-radius:999px; }
+::-webkit-scrollbar-thumb:hover { background:var(--primary-lighter); }

@@ -1,0 +1,18 @@
+:root {
+  --primary: #1B4332;
+  --primary-light: #2D6A4F;
+  --primary-lighter: #40916C;
+  --primary-pale: #B7E4C7;
+  --accent: #E9A319;
+  --accent-light: #FBBF24;
+  --bg: #F5F5F0;
+  --card: #FFFFFF;
+  --text: #1A1A2E;
+  --text-muted: #6B7280;
+  --border: #E5E5E0;
+  --danger: #DC2626;
+  --success: #16A34A;
+  --warning: #F59E0B;
+  --info: #0891B2;
+  --sidebar-w: 260px;
+}

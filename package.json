@@ -1,0 +1,15 @@
+{
+  "name": "hostelvault",
+  "version": "1.0.0",
+  "description": "HostelVault - Hostel Management System (Bun + SQLite backend)",
+  "type": "module",
+  "scripts": {
+    "dev": "bun --hot run server/index.js",
+    "start": "bun run server/index.js",
+    "seed": "bun run server/db/seed.js"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
+    "hono": "^4.6.0"
+  }
+}
